@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Sindhu</h1>
-<h4 align="center">Java Developer | DSA Enthusiast | Backend Learner</h4>
+<h4 align="center">Java Developer | DSA Enthusiast | Frontend Learner</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Code.+Build.+Grow." alt="Typing SVG" />
